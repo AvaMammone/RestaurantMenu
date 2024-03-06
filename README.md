@@ -1,4 +1,4 @@
-<div style="width:400px; height:550px; padding:10px; margin:10px; border-style:solid; background-image:url(/WebDesign/eggbreakfast.jpg);>
+<div style="width:400px; height:550px; padding:10px; margin:10px; border-style:solid; background-image:url(/Basic Web Design/pancakes.jpg); background-repeat:no-repeat; background-position:bottom left; ">
 <ul style="list-style-type: disc;">
     <dt>BREAKFAST</dt>    
     <li>Pancakes   $6.50</li>
